@@ -1,4 +1,4 @@
-# 🖩Calculator
+# 🖩 Calculator
 
 A sleek, responsive calculator web app with a cozy brown theme, glassy screen effect, and smooth button animations.
 
